@@ -1,0 +1,173 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mixedsign.github.io/portfolio" resolutions="1x" timestamp="1553165590797">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="contact.css" crc="494491600" ref="contact"/>
+    <file name="concept.css" crc="4260348148" ref="concept"/>
+    <file name="photo.css" crc="216841692" ref="photo"/>
+    <file name="print.css" crc="354329448" ref="print"/>
+    <file name="index.css" crc="4005033191" ref="index"/>
+    <file name="about.css" crc="471127039" ref="about"/>
+    <file name="graphic.css" crc="3855095222" ref="graphic"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="museutils.js" crc="3851988764" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="require.js" crc="4108833657" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="pie.js" crc="3831537696" ref="photo:graphic:print:concept"/>
+    <file name="webpro.js" crc="4067903014" ref="photo:graphic:print:concept"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="photo:graphic:print:concept"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="photo:graphic:print:concept"/>
+    <file name="touchswipe.js" crc="474750357" ref="photo:graphic:print:concept"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3780651074" ref="index"/>
+    <file name="print.png" crc="3951604140" seo="true" ref="index"/>
+    <file name="contact.png" crc="443873347" seo="true" ref="index:photo:graphic:print:concept:about"/>
+    <file name="concept.png" crc="132637356" seo="true" ref="index"/>
+    <file name="index.png" crc="80609265" seo="true" ref="index:photo:graphic:print:concept:about:contact"/>
+    <file name="photo.png" crc="165616041" seo="true" ref="index"/>
+    <file name="about.png" crc="3849735069" seo="true" ref="index:photo:graphic:print:concept:contact"/>
+    <file name="graphic.png" crc="231155044" seo="true" ref="index"/>
+    <file name="printb-crop-u6681.png" crc="76705665" ref="photo"/>
+    <file name="conceptb.png" crc="37763896" seo="true" ref="photo:graphic:print:about:contact"/>
+    <file name="around_32.png" crc="4168491691" seo="true" ref="photo"/>
+    <file name="story_32.png" crc="360378569" seo="true" ref="photo"/>
+    <file name="people_64.png" crc="4186593329" seo="true" ref="photo"/>
+    <file name="creative_32.png" crc="4011493557" seo="true" ref="photo"/>
+    <file name="photow.png" crc="4063564171" seo="true" ref="photo"/>
+    <file name="graphicb.png" crc="4070189037" seo="true" ref="photo:print:concept:about:contact"/>
+    <file name="sam_2166.jpg" crc="365138562" seo="true" ref="photo"/>
+    <file name="blank.gif" crc="4208392903" ref="photo:graphic:print:concept"/>
+    <file name="sam_2778.jpg" crc="4166722163" seo="true" ref="photo"/>
+    <file name="sam_4235_1.jpg" crc="3831145857" seo="true" ref="photo"/>
+    <file name="sam_4348.jpg" crc="4232934400" seo="true" ref="photo"/>
+    <file name="sam_216660x40.jpg" crc="4158363102" seo="true" ref="photo"/>
+    <file name="loading.gif" crc="3815509949" ref="photo:graphic:print:concept"/>
+    <file name="sam_5563.jpg" crc="393602575" seo="true" ref="photo"/>
+    <file name="sam_5635.jpg" crc="3828292198" seo="true" ref="photo"/>
+    <file name="sam_7847.jpg" crc="326637322" seo="true" ref="photo"/>
+    <file name="sam_7946.jpg" crc="3849098550" seo="true" ref="photo"/>
+    <file name="sam_563560x40.jpg" crc="396656919" seo="true" ref="photo"/>
+    <file name="sam_784760x40.jpg" crc="207300423" seo="true" ref="photo"/>
+    <file name="sam_794660x40.jpg" crc="3865710216" seo="true" ref="photo"/>
+    <file name="sam_6219.jpg" crc="148473375" seo="true" ref="photo"/>
+    <file name="sam_6370_1.jpg" crc="3899090126" seo="true" ref="photo"/>
+    <file name="sam_6471.jpg" crc="4039405990" seo="true" ref="photo"/>
+    <file name="sam_7655.jpg" crc="4253684399" seo="true" ref="photo"/>
+    <file name="pa030139p.jpg" crc="3807871572" seo="true" ref="photo"/>
+    <file name="sam_6262.jpg" crc="209666960" seo="true" ref="photo"/>
+    <file name="sam_6566f.jpg" crc="3962869589" seo="true" ref="photo"/>
+    <file name="two generations.jpg" crc="259140574" seo="true" ref="photo"/>
+    <file name="pa030139p34x45.jpg" crc="4105315755" seo="true" ref="photo"/>
+    <file name="sam_626260x40.jpg" crc="437869760" seo="true" ref="photo"/>
+    <file name="two generations60x40.jpg" crc="4037706072" seo="true" ref="photo"/>
+    <file name="printb.png" crc="295492789" seo="true" ref="graphic:concept:about:contact"/>
+    <file name="brands.png" crc="3858298832" seo="true" ref="graphic"/>
+    <file name="present.png" crc="4240585476" seo="true" ref="graphic"/>
+    <file name="magazines.png" crc="13891349" seo="true" ref="graphic"/>
+    <file name="posters.png" crc="194813094" seo="true" ref="graphic"/>
+    <file name="photob.png" crc="3777439961" seo="true" ref="graphic:print:concept:about:contact"/>
+    <file name="graphicw.png" crc="50090963" seo="true" ref="graphic"/>
+    <file name="catalogue.jpg" crc="322775890" seo="true" ref="graphic"/>
+    <file name="covers-1.jpg" crc="3977342838" seo="true" ref="graphic"/>
+    <file name="regents.jpg" crc="60382522" seo="true" ref="graphic"/>
+    <file name="vaimmito.jpg" crc="3921623463" seo="true" ref="graphic"/>
+    <file name="catalogue45x45.jpg" crc="4070563924" seo="true" ref="graphic"/>
+    <file name="bekar.jpg" crc="3894422677" seo="true" ref="graphic"/>
+    <file name="flyervanyacmyk-01.jpg" crc="33472070" seo="true" ref="graphic"/>
+    <file name="galery_uka.jpg" crc="4182216231" seo="true" ref="graphic"/>
+    <file name="i want creativity.jpg" crc="3802418274" seo="true" ref="graphic"/>
+    <file name="i want creativity33x45.jpg" crc="267606839" seo="true" ref="graphic"/>
+    <file name="bc.jpg" crc="338746564" seo="true" ref="graphic"/>
+    <file name="big1.jpg" crc="266556130" seo="true" ref="graphic"/>
+    <file name="luba.jpg" crc="4124507329" seo="true" ref="graphic"/>
+    <file name="presentation.jpg" crc="350938510" seo="true" ref="graphic"/>
+    <file name="bc53x45.jpg" crc="4155955979" seo="true" ref="graphic"/>
+    <file name="big160x43.jpg" crc="3821096686" seo="true" ref="graphic"/>
+    <file name="luba60x40.jpg" crc="471342080" seo="true" ref="graphic"/>
+    <file name="presentation60x34.jpg" crc="362350738" seo="true" ref="graphic"/>
+    <file name="bg_eu.jpg" crc="4124772417" seo="true" ref="graphic"/>
+    <file name="flable.png" crc="343047871" seo="true" ref="graphic"/>
+    <file name="viaagra.jpg" crc="208244140" seo="true" ref="graphic"/>
+    <file name="vistadellamore.jpg" crc="4192975219" seo="true" ref="graphic"/>
+    <file name="bg_eu46x45.jpg" crc="3799971118" seo="true" ref="graphic"/>
+    <file name="viaagra60x40.jpg" crc="333855112" seo="true" ref="graphic"/>
+    <file name="printw.png" crc="4102319222" seo="true" ref="print"/>
+    <file name="maya.png" crc="143965430" seo="true" ref="print"/>
+    <file name="runes.png" crc="489841022" seo="true" ref="print"/>
+    <file name="china.png" crc="3970613356" seo="true" ref="print"/>
+    <file name="egypt.png" crc="4254199077" seo="true" ref="print"/>
+    <file name="graphictwister.png" crc="3977642179" seo="true" ref="print"/>
+    <file name="graphictwister2.png" crc="4205758068" seo="true" ref="print"/>
+    <file name="graphictwister3.png" crc="236161373" seo="true" ref="print"/>
+    <file name="graphictwister4.jpg" crc="4192503749" seo="true" ref="print"/>
+    <file name="graphictwister57x45.png" crc="3785114467" seo="true" ref="print"/>
+    <file name="graphictwister257x45.png" crc="4120337806" seo="true" ref="print"/>
+    <file name="graphictwister357x45.png" crc="316886135" seo="true" ref="print"/>
+    <file name="graphictwister457x45.jpg" crc="4011847702" seo="true" ref="print"/>
+    <file name="graphictwister4.png" crc="4183576347" seo="true" ref="print"/>
+    <file name="graphictwister22.png" crc="4080212827" seo="true" ref="print"/>
+    <file name="graphictwister32.png" crc="448548896" seo="true" ref="print"/>
+    <file name="graphictwister42.png" crc="4110572574" seo="true" ref="print"/>
+    <file name="graphictwister57x452.png" crc="4177369568" seo="true" ref="print"/>
+    <file name="graphictwister257x452.png" crc="3872519836" seo="true" ref="print"/>
+    <file name="graphictwister357x452.png" crc="3983202379" seo="true" ref="print"/>
+    <file name="graphictwister457x45.png" crc="259274469" seo="true" ref="print"/>
+    <file name="graphictwister5.png" crc="3971051857" seo="true" ref="print"/>
+    <file name="graphictwister23.png" crc="268103432" seo="true" ref="print"/>
+    <file name="graphictwister33.png" crc="4046063237" seo="true" ref="print"/>
+    <file name="graphictwister42.jpg" crc="4256192768" seo="true" ref="print"/>
+    <file name="graphictwister57x453.png" crc="4271000300" seo="true" ref="print"/>
+    <file name="graphictwister257x453.png" crc="523704651" seo="true" ref="print"/>
+    <file name="graphictwister357x453.png" crc="3818989539" seo="true" ref="print"/>
+    <file name="graphictwister457x452.jpg" crc="3761885642" seo="true" ref="print"/>
+    <file name="graphictwister6.png" crc="4230570286" seo="true" ref="print"/>
+    <file name="graphictwister24.png" crc="129653090" seo="true" ref="print"/>
+    <file name="graphictwister34.png" crc="4017393038" seo="true" ref="print"/>
+    <file name="graphictwister43.jpg" crc="3968587336" seo="true" ref="print"/>
+    <file name="graphictwister57x454.png" crc="380881554" seo="true" ref="print"/>
+    <file name="graphictwister257x454.png" crc="3983748237" seo="true" ref="print"/>
+    <file name="graphictwister357x454.png" crc="420078033" seo="true" ref="print"/>
+    <file name="graphictwister457x453.jpg" crc="413246461" seo="true" ref="print"/>
+    <file name="conceptw.png" crc="298531270" seo="true" ref="concept"/>
+    <file name="mixedsignapp.png" crc="160855186" seo="true" ref="concept"/>
+    <file name="concept-car.png" crc="521112636" seo="true" ref="concept"/>
+    <file name="flable2.png" crc="59090994" seo="true" ref="concept"/>
+    <file name="harmony.png" crc="74438395" seo="true" ref="concept"/>
+    <file name="tablebk1brand.jpg" crc="50989487" seo="true" ref="concept"/>
+    <file name="tablebk2brand.jpg" crc="4118728771" seo="true" ref="concept"/>
+    <file name="tablebsmallwallbrand.jpg" crc="4184561284" seo="true" ref="concept"/>
+    <file name="tablek2.jpg" crc="83534109" seo="true" ref="concept"/>
+    <file name="tablebk1brand60x38.jpg" crc="368263736" seo="true" ref="concept"/>
+    <file name="tablebk2brand60x38.jpg" crc="458769476" seo="true" ref="concept"/>
+    <file name="tablebsmallwallbrand60x38.jpg" crc="385318624" seo="true" ref="concept"/>
+    <file name="tablek260x38.jpg" crc="340610995" seo="true" ref="concept"/>
+    <file name="01 - wantitrightnow.jpg" crc="3928553702" seo="true" ref="concept"/>
+    <file name="02 - pctotabverynew.jpg" crc="4139431959" seo="true" ref="concept"/>
+    <file name="03 - hometopc_new.jpg" crc="507866790" seo="true" ref="concept"/>
+    <file name="04 - homenew.jpg" crc="184369904" seo="true" ref="concept"/>
+    <file name="01 - wantitrightnow60x34.jpg" crc="162963116" seo="true" ref="concept"/>
+    <file name="02 - pctotabverynew60x41.jpg" crc="254458718" seo="true" ref="concept"/>
+    <file name="03 - hometopc_new60x34.jpg" crc="276477993" seo="true" ref="concept"/>
+    <file name="04 - homenew60x34.jpg" crc="3990448673" seo="true" ref="concept"/>
+    <file name="mixedsign_app_1.jpg" crc="3948798486" seo="true" ref="concept"/>
+    <file name="mixedsign_app_2.jpg" crc="4201410417" seo="true" ref="concept"/>
+    <file name="mixedsign_app_3.jpg" crc="136527526" seo="true" ref="concept"/>
+    <file name="startupmoc_mixedsign.png" crc="3831677806" seo="true" ref="concept"/>
+    <file name="startupmoc_mixedsign60x33.png" crc="195520776" seo="true" ref="concept"/>
+    <file name="about-portrait.png" crc="4282334955" seo="true" ref="about"/>
+    <file name="aboutw.png" crc="3820696120" seo="true" ref="about"/>
+    <file name="about-info.png" crc="199667224" seo="true" ref="about"/>
+    <file name="contactw.png" crc="3954492032" seo="true" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4085717612" seo="true" mt="1491046000440" redirect="true"/>
+  <file name="photo.html" crc="455223581" seo="true" mt="1491046000398" redirect="true"/>
+  <file name="graphic.html" crc="120486064" seo="true" mt="1491046000381" redirect="true"/>
+  <file name="print.html" crc="101535347" seo="true" mt="1491046000365" redirect="true"/>
+  <file name="concept.html" crc="4040493566" seo="true" mt="1491046148518" redirect="true"/>
+  <file name="about.html" crc="4127511030" seo="true" mt="1491046000343" redirect="true"/>
+  <file name="contact.html" crc="41084628" seo="true" mt="1553165402923" redirect="true"/>
+</manifest>
